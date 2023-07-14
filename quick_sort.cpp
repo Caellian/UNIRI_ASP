@@ -4,7 +4,6 @@
 #include <vector>
 #include <stdlib.h>
 
-// Izvor: https://github.com/Caellian/Reference/tree/master/algorithms/sorting/quicksort
 int partition(int *a, size_t lo, size_t hi)
 {
   std::cout << "Particioniranje raspona indeksa: [" << lo << ", " << hi << "]\n";
