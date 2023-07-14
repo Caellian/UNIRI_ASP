@@ -1,0 +1,124 @@
+% !TEX TS-program = pdflatex
+% !TEX encoding = UTF-8
+% !BIB program = biber
+
+\documentclass[12pt,a4paper]{report}
+
+% generira bookmarkove
+\usepackage{bookmark}
+
+% Podrška za hrvatski
+\usepackage[croatian]{babel}
+\usepackage{csquotes}
+
+% Margine
+\usepackage[left=3cm,top=2.5cm,right=2.5cm,bottom=3.5cm]{geometry}
+
+% Simboli i naredbe za matematiku
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage{mathtools}
+\usepackage{subcaption} % side-by-side grafovi
+
+% Podrška za slike
+\usepackage{graphicx} % \includegraphics [k=v] interface
+
+% Poveznice
+\usepackage{hyperref}
+
+% Blokovi s kodom
+\usepackage{minted}
+\ifx\write18\relax\else
+\usemintedstyle{sas}
+\fi
+
+% Fonts:
+\usepackage[T1]{fontenc} % Allows specifying fonts
+\usepackage{helvet} % Helvetica; phv
+\usepackage{palatino} % Palatino; ppl
+
+\gdef \class{Algoritmi i strukture podataka}
+\gdef \author{Tin Švagelj}
+\gdef \uniprogram{Preddimplski studij informatike}
+\gdef \semguide{Izv. prof. dr. sc. Marija Brkić Bakarić}
+\gdef \author{Tin Švagelj}
+\gdef \date{\today}
+
+% Custom commands and redefinitions
+\newcommand{\UseFont}[1]{\fontfamily{#1}\selectfont}
+
+\usepackage{titlesec}
+\titleformat{\chapter}[hang]
+{\normalfont\Large\bfseries}{\thechapter}{20pt}{\Large}
+
+\newcommand{\SubItem}[1]{
+    {\setlength\itemindent{15pt} \item[-] #1}
+}
+
+\begin{document}
+
+\thispagestyle{empty}
+
+\include{titlepage.tex}
+
+\pagenumbering{roman}
+
+\tableofcontents
+\newpage
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\chapter{Odabir testnih podataka}
+
+Korišteni studentski kod je 031800\textbf{6048}. Kako bi se odredila
+datoteka s podatcima za testiranje je unesena formula
+\verb|6048%113+1| u interaktivnoj python ljusci, čime je dobiven broj
+\texttt{60}. Dobivena vrijednost spada u brojčani raspon
+$[47, 64]$ te je zato odabrana treća poveznica za testne
+podatke.
+
+Za odabir algoritma za implementaciju je korištena formula
+\verb|6048%7+1|, čiji rezultat je \texttt{1} (tj. Quick Sort).
+
+\chapter{Sadržaj testnih podataka}
+
+Kao testne podatke aplikacije su bili korišteni sljedeći podatci o
+gubitcima opreme, broju umrli i ranjenih, te broju ratnih zatvorenika u
+ratu 2022. između Rusije i Ukrajine:
+
+\begin{minted}[breaklines]{text}
+2022-02-25,2,10,7,80,516,49,4,100.0,60.0,0,2,0,,,,,
+2022-02-26,3,27,26,146,706,49,4,130.0,60.0,2,2,0,,,,,
+2022-02-27,4,27,26,150,706,50,4,130.0,60.0,2,2,0,,,,,
+2022-02-28,5,29,29,150,816,74,21,291.0,60.0,3,2,5,,,,,
+2022-03-01,6,29,29,198,846,77,24,305.0,60.0,3,2,7,,,,,
+2022-03-02,7,30,31,211,862,85,40,355.0,60.0,3,2,9,,,,,
+2022-03-03,8,30,31,217,900,90,42,374.0,60.0,3,2,11,,,,,
+2022-03-04,9,33,37,251,939,105,50,404.0,60.0,3,2,18,,,,,
+2022-03-05,10,39,40,269,945,105,50,409.0,60.0,3,2,19,,,,,
+2022-03-06,11,44,48,285,985,109,50,447.0,60.0,4,2,21,,,,,
+2022-03-07,12,46,68,290,999,117,50,454.0,60.0,7,3,23,,,,,
+2022-03-08,13,48,80,303,1036,120,56,474.0,60.0,7,3,27,,,,,
+2022-03-09,14,49,81,317,1070,120,56,482.0,60.0,7,3,28,,,,,
+2022-03-10,15,49,81,335,1105,123,56,526.0,60.0,7,3,29,,,,,
+2022-03-11,16,57,83,353,1165,125,58,558.0,60.0,7,3,31,,,,,
+2022-03-12,17,58,83,362,1205,135,62,585.0,60.0,7,3,33,,,,,
+2022-03-13,18,74,86,374,1226,140,62,600.0,60.0,7,3,34,,,,,
+2022-03-14,19,77,90,389,1249,150,64,617.0,60.0,8,3,34,,,,,
+2022-03-15,20,81,95,404,1279,150,64,640.0,60.0,9,3,36,,,,,
+2022-03-16,21,84,108,430,1375,190,70,819.0,60.0,11,3,43,10.0,,,,
+\end{minted}
+
+Prvih 20 redova podataka su bili pročišćeni od dupliciranih vrijednosti
+i datuma uporabom jezičnog modela. Zatim pohranjeni u jednom redu
+(zarezima odvojeni) u \verb|data.in| datoteku.
+
+\chapter{Ispis programa za sortiranje}
+
+Prilikom paljenja programa, učitava se datoteka s testnim podatcima.
+
+Ostatak toka izvođenja programa je dokumentiran stdout ispisom:
+
+\inputminted[breaklines]{text}{output.txt}
+
+\end{document}

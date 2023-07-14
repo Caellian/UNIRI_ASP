@@ -1,0 +1,1399 @@
+Učitano 115 vrijednosti:
+2, 10, 7, 80, 516, 49, 4, 100, 60, 0, 3, 27, 26, 146, 706, 50, 130, 5, 29, 150, 816, 74, 21, 291, 6, 198, 846, 77, 24, 305, 30, 31, 211, 862, 85, 40, 355, 9, 33, 37, 251, 939, 105, 404, 18, 39, 269, 945, 409, 19, 11, 44, 48, 285, 985, 109, 447, 12, 46, 68, 290, 999, 117, 454, 23, 13, 303, 1036, 120, 56, 474, 14, 81, 317, 1070, 482, 28, 15, 335, 1105, 526, 16, 57, 83, 353, 1165, 558, 17, 58, 362, 1205, 135, 585, 86, 374, 1226, 600, 34, 90, 389, 1249, 617, 8, 20, 95, 1279, 640, 36, 84, 108, 430, 1375, 190, 819, 43
+Sortiranje...
+Particioniranje raspona indeksa: [0, 114]
+Pivot je prvi element particije: 2
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 2
+Lijevi pokazivać je zastao na indeksu: 1 (10).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 2
+Desni pokazivać je zastao na indeksu: 9 (0).
+Zamjena vrijednosti na indeksima: 1 (10) i 9 (0)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 2
+Lijevi pokazivać je zastao na indeksu: 2 (7).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 2
+Desni pokazivać je zastao na indeksu: 1 (0).
+i >= j; izlaz iz petlje
+Zamjena pivota 0 (2) sa j: 1 (0)
+Nova granica za podparticije je: 1
+Sortiranje lijeve podparticije: [0, 0]
+Sortiranje desne podparticije: [2, 114]
+Particioniranje raspona indeksa: [2, 114]
+Pivot je prvi element particije: 7
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 7
+Lijevi pokazivać je zastao na indeksu: 3 (80).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 7
+Desni pokazivać je zastao na indeksu: 24 (6).
+Zamjena vrijednosti na indeksima: 3 (80) i 24 (6)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 7
+Lijevi pokazivać je zastao na indeksu: 4 (516).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 7
+Desni pokazivać je zastao na indeksu: 17 (5).
+Zamjena vrijednosti na indeksima: 4 (516) i 17 (5)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 7
+Lijevi pokazivać je zastao na indeksu: 5 (49).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 7
+Desni pokazivać je zastao na indeksu: 10 (3).
+Zamjena vrijednosti na indeksima: 5 (49) i 10 (3)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 7
+Lijevi pokazivać je zastao na indeksu: 7 (100).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 7
+Desni pokazivać je zastao na indeksu: 6 (4).
+i >= j; izlaz iz petlje
+Zamjena pivota 2 (7) sa j: 6 (4)
+Nova granica za podparticije je: 6
+Sortiranje lijeve podparticije: [2, 5]
+Particioniranje raspona indeksa: [2, 5]
+Pivot je prvi element particije: 4
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 4
+Lijevi pokazivać je zastao na indeksu: 3 (6).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 4
+Desni pokazivać je zastao na indeksu: 5 (3).
+Zamjena vrijednosti na indeksima: 3 (6) i 5 (3)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 4
+Lijevi pokazivać je zastao na indeksu: 4 (5).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 4
+Desni pokazivać je zastao na indeksu: 3 (3).
+i >= j; izlaz iz petlje
+Zamjena pivota 2 (4) sa j: 3 (3)
+Nova granica za podparticije je: 3
+Sortiranje lijeve podparticije: [2, 2]
+Sortiranje desne podparticije: [4, 5]
+Particioniranje raspona indeksa: [4, 5]
+Pivot je prvi element particije: 5
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 5
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 5
+i >= j; izlaz iz petlje
+Zamjena pivota 4 (5) sa j: 4 (5)
+Nova granica za podparticije je: 4
+Sortiranje lijeve podparticije: [4, 3]
+Sortiranje desne podparticije: [5, 5]
+Sortiranje desne podparticije: [7, 114]
+Particioniranje raspona indeksa: [7, 114]
+Pivot je prvi element particije: 100
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 13 (146).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 114 (43).
+Zamjena vrijednosti na indeksima: 13 (146) i 114 (43)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 14 (706).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 108 (84).
+Zamjena vrijednosti na indeksima: 14 (706) i 108 (84)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 16 (130).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 107 (36).
+Zamjena vrijednosti na indeksima: 16 (130) i 107 (36)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 17 (516).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 104 (95).
+Zamjena vrijednosti na indeksima: 17 (516) i 104 (95)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 19 (150).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 103 (20).
+Zamjena vrijednosti na indeksima: 19 (150) i 103 (20)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 20 (816).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 102 (8).
+Zamjena vrijednosti na indeksima: 20 (816) i 102 (8)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 23 (291).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 98 (90).
+Zamjena vrijednosti na indeksima: 23 (291) i 98 (90)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 25 (198).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 97 (34).
+Zamjena vrijednosti na indeksima: 25 (198) i 97 (34)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 26 (846).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 93 (86).
+Zamjena vrijednosti na indeksima: 26 (846) i 93 (86)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 29 (305).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 88 (58).
+Zamjena vrijednosti na indeksima: 29 (305) i 88 (58)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 32 (211).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 87 (17).
+Zamjena vrijednosti na indeksima: 32 (211) i 87 (17)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 33 (862).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 83 (83).
+Zamjena vrijednosti na indeksima: 33 (862) i 83 (83)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 36 (355).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 82 (57).
+Zamjena vrijednosti na indeksima: 36 (355) i 82 (57)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 40 (251).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 81 (16).
+Zamjena vrijednosti na indeksima: 40 (251) i 81 (16)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 41 (939).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 77 (15).
+Zamjena vrijednosti na indeksima: 41 (939) i 77 (15)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 42 (105).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 76 (28).
+Zamjena vrijednosti na indeksima: 42 (105) i 76 (28)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 43 (404).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 72 (81).
+Zamjena vrijednosti na indeksima: 43 (404) i 72 (81)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 46 (269).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 71 (14).
+Zamjena vrijednosti na indeksima: 46 (269) i 71 (14)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 47 (945).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 69 (56).
+Zamjena vrijednosti na indeksima: 47 (945) i 69 (56)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 48 (409).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 65 (13).
+Zamjena vrijednosti na indeksima: 48 (409) i 65 (13)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 53 (285).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 64 (23).
+Zamjena vrijednosti na indeksima: 53 (285) i 64 (23)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 54 (985).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 59 (68).
+Zamjena vrijednosti na indeksima: 54 (985) i 59 (68)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 55 (109).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 58 (46).
+Zamjena vrijednosti na indeksima: 55 (109) i 58 (46)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 56 (447).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 57 (12).
+Zamjena vrijednosti na indeksima: 56 (447) i 57 (12)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 100
+Lijevi pokazivać je zastao na indeksu: 57 (447).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 100
+Desni pokazivać je zastao na indeksu: 56 (12).
+i >= j; izlaz iz petlje
+Zamjena pivota 7 (100) sa j: 56 (12)
+Nova granica za podparticije je: 56
+Sortiranje lijeve podparticije: [7, 55]
+Particioniranje raspona indeksa: [7, 55]
+Pivot je prvi element particije: 12
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 12
+Lijevi pokazivać je zastao na indeksu: 8 (60).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 12
+Desni pokazivać je zastao na indeksu: 50 (11).
+Zamjena vrijednosti na indeksima: 8 (60) i 50 (11)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 12
+Lijevi pokazivać je zastao na indeksu: 10 (49).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 12
+Desni pokazivać je zastao na indeksu: 37 (9).
+Zamjena vrijednosti na indeksima: 10 (49) i 37 (9)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 12
+Lijevi pokazivać je zastao na indeksu: 11 (27).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 12
+Desni pokazivać je zastao na indeksu: 20 (8).
+Zamjena vrijednosti na indeksima: 11 (27) i 20 (8)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 12
+Lijevi pokazivać je zastao na indeksu: 12 (26).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 12
+Desni pokazivać je zastao na indeksu: 11 (8).
+i >= j; izlaz iz petlje
+Zamjena pivota 7 (12) sa j: 11 (8)
+Nova granica za podparticije je: 11
+Sortiranje lijeve podparticije: [7, 10]
+Particioniranje raspona indeksa: [7, 10]
+Pivot je prvi element particije: 8
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 8
+Lijevi pokazivać je zastao na indeksu: 8 (11).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 8
+i >= j; izlaz iz petlje
+Zamjena pivota 7 (8) sa j: 7 (8)
+Nova granica za podparticije je: 7
+Sortiranje lijeve podparticije: [7, 6]
+Sortiranje desne podparticije: [8, 10]
+Particioniranje raspona indeksa: [8, 10]
+Pivot je prvi element particije: 11
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 11
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 11
+Desni pokazivać je zastao na indeksu: 10 (9).
+i >= j; izlaz iz petlje
+Zamjena pivota 8 (11) sa j: 10 (9)
+Nova granica za podparticije je: 10
+Sortiranje lijeve podparticije: [8, 9]
+Particioniranje raspona indeksa: [8, 9]
+Pivot je prvi element particije: 9
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 9
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 9
+i >= j; izlaz iz petlje
+Zamjena pivota 8 (9) sa j: 8 (9)
+Nova granica za podparticije je: 8
+Sortiranje lijeve podparticije: [8, 7]
+Sortiranje desne podparticije: [9, 9]
+Sortiranje desne podparticije: [11, 10]
+Sortiranje desne podparticije: [12, 55]
+Particioniranje raspona indeksa: [12, 55]
+Pivot je prvi element particije: 26
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 26
+Lijevi pokazivać je zastao na indeksu: 13 (43).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 26
+Desni pokazivać je zastao na indeksu: 53 (23).
+Zamjena vrijednosti na indeksima: 13 (43) i 53 (23)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 26
+Lijevi pokazivać je zastao na indeksu: 14 (84).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 26
+Desni pokazivać je zastao na indeksu: 49 (19).
+Zamjena vrijednosti na indeksima: 14 (84) i 49 (19)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 26
+Lijevi pokazivać je zastao na indeksu: 15 (50).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 26
+Desni pokazivać je zastao na indeksu: 48 (13).
+Zamjena vrijednosti na indeksima: 15 (50) i 48 (13)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 26
+Lijevi pokazivać je zastao na indeksu: 16 (36).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 26
+Desni pokazivać je zastao na indeksu: 46 (14).
+Zamjena vrijednosti na indeksima: 16 (36) i 46 (14)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 26
+Lijevi pokazivać je zastao na indeksu: 17 (95).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 26
+Desni pokazivać je zastao na indeksu: 44 (18).
+Zamjena vrijednosti na indeksima: 17 (95) i 44 (18)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 26
+Lijevi pokazivać je zastao na indeksu: 18 (29).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 26
+Desni pokazivać je zastao na indeksu: 41 (15).
+Zamjena vrijednosti na indeksima: 18 (29) i 41 (15)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 26
+Lijevi pokazivać je zastao na indeksu: 20 (27).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 26
+Desni pokazivać je zastao na indeksu: 40 (16).
+Zamjena vrijednosti na indeksima: 20 (27) i 40 (16)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 26
+Lijevi pokazivać je zastao na indeksu: 21 (74).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 26
+Desni pokazivać je zastao na indeksu: 32 (17).
+Zamjena vrijednosti na indeksima: 21 (74) i 32 (17)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 26
+Lijevi pokazivać je zastao na indeksu: 23 (90).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 26
+Desni pokazivać je zastao na indeksu: 28 (24).
+Zamjena vrijednosti na indeksima: 23 (90) i 28 (24)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 26
+Lijevi pokazivać je zastao na indeksu: 24 (80).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 26
+Desni pokazivać je zastao na indeksu: 23 (24).
+i >= j; izlaz iz petlje
+Zamjena pivota 12 (26) sa j: 23 (24)
+Nova granica za podparticije je: 23
+Sortiranje lijeve podparticije: [12, 22]
+Particioniranje raspona indeksa: [12, 22]
+Pivot je prvi element particije: 24
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 24
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 24
+Desni pokazivać je zastao na indeksu: 22 (21).
+i >= j; izlaz iz petlje
+Zamjena pivota 12 (24) sa j: 22 (21)
+Nova granica za podparticije je: 22
+Sortiranje lijeve podparticije: [12, 21]
+Particioniranje raspona indeksa: [12, 21]
+Pivot je prvi element particije: 21
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 21
+Lijevi pokazivać je zastao na indeksu: 13 (23).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 21
+Desni pokazivać je zastao na indeksu: 21 (17).
+Zamjena vrijednosti na indeksima: 13 (23) i 21 (17)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 21
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 21
+Desni pokazivać je zastao na indeksu: 20 (16).
+i >= j; izlaz iz petlje
+Zamjena pivota 12 (21) sa j: 20 (16)
+Nova granica za podparticije je: 20
+Sortiranje lijeve podparticije: [12, 19]
+Particioniranje raspona indeksa: [12, 19]
+Pivot je prvi element particije: 16
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 16
+Lijevi pokazivać je zastao na indeksu: 13 (17).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 16
+Desni pokazivać je zastao na indeksu: 18 (15).
+Zamjena vrijednosti na indeksima: 13 (17) i 18 (15)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 16
+Lijevi pokazivać je zastao na indeksu: 14 (19).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 16
+Desni pokazivać je zastao na indeksu: 16 (14).
+Zamjena vrijednosti na indeksima: 14 (19) i 16 (14)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 16
+Lijevi pokazivać je zastao na indeksu: 16 (19).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 16
+Desni pokazivać je zastao na indeksu: 15 (13).
+i >= j; izlaz iz petlje
+Zamjena pivota 12 (16) sa j: 15 (13)
+Nova granica za podparticije je: 15
+Sortiranje lijeve podparticije: [12, 14]
+Particioniranje raspona indeksa: [12, 14]
+Pivot je prvi element particije: 13
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 13
+Lijevi pokazivać je zastao na indeksu: 13 (15).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 13
+i >= j; izlaz iz petlje
+Zamjena pivota 12 (13) sa j: 12 (13)
+Nova granica za podparticije je: 12
+Sortiranje lijeve podparticije: [12, 11]
+Sortiranje desne podparticije: [13, 14]
+Particioniranje raspona indeksa: [13, 14]
+Pivot je prvi element particije: 15
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 15
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 15
+Desni pokazivać je zastao na indeksu: 14 (14).
+i >= j; izlaz iz petlje
+Zamjena pivota 13 (15) sa j: 14 (14)
+Nova granica za podparticije je: 14
+Sortiranje lijeve podparticije: [13, 13]
+Sortiranje desne podparticije: [15, 14]
+Sortiranje desne podparticije: [16, 19]
+Particioniranje raspona indeksa: [16, 19]
+Pivot je prvi element particije: 19
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 19
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 19
+Desni pokazivać je zastao na indeksu: 18 (17).
+i >= j; izlaz iz petlje
+Zamjena pivota 16 (19) sa j: 18 (17)
+Nova granica za podparticije je: 18
+Sortiranje lijeve podparticije: [16, 17]
+Particioniranje raspona indeksa: [16, 17]
+Pivot je prvi element particije: 17
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 17
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 17
+i >= j; izlaz iz petlje
+Zamjena pivota 16 (17) sa j: 16 (17)
+Nova granica za podparticije je: 16
+Sortiranje lijeve podparticije: [16, 15]
+Sortiranje desne podparticije: [17, 17]
+Sortiranje desne podparticije: [19, 19]
+Sortiranje desne podparticije: [21, 21]
+Sortiranje desne podparticije: [23, 22]
+Sortiranje desne podparticije: [24, 55]
+Particioniranje raspona indeksa: [24, 55]
+Pivot je prvi element particije: 80
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 80
+Lijevi pokazivać je zastao na indeksu: 26 (86).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 80
+Desni pokazivać je zastao na indeksu: 55 (46).
+Zamjena vrijednosti na indeksima: 26 (86) i 55 (46)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 80
+Lijevi pokazivać je zastao na indeksu: 28 (90).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 80
+Desni pokazivać je zastao na indeksu: 54 (68).
+Zamjena vrijednosti na indeksima: 28 (90) i 54 (68)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 80
+Lijevi pokazivać je zastao na indeksu: 33 (83).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 80
+Desni pokazivać je zastao na indeksu: 53 (43).
+Zamjena vrijednosti na indeksima: 33 (83) i 53 (43)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 80
+Lijevi pokazivać je zastao na indeksu: 34 (85).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 80
+Desni pokazivać je zastao na indeksu: 52 (48).
+Zamjena vrijednosti na indeksima: 34 (85) i 52 (48)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 80
+Lijevi pokazivać je zastao na indeksu: 43 (81).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 80
+Desni pokazivać je zastao na indeksu: 51 (44).
+Zamjena vrijednosti na indeksima: 43 (81) i 51 (44)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 80
+Lijevi pokazivać je zastao na indeksu: 44 (95).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 80
+Desni pokazivać je zastao na indeksu: 50 (60).
+Zamjena vrijednosti na indeksima: 44 (95) i 50 (60)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 80
+Lijevi pokazivać je zastao na indeksu: 49 (84).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 80
+Desni pokazivać je zastao na indeksu: 48 (50).
+i >= j; izlaz iz petlje
+Zamjena pivota 24 (80) sa j: 48 (50)
+Nova granica za podparticije je: 48
+Sortiranje lijeve podparticije: [24, 47]
+Particioniranje raspona indeksa: [24, 47]
+Pivot je prvi element particije: 50
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 50
+Lijevi pokazivać je zastao na indeksu: 27 (77).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 50
+Desni pokazivać je zastao na indeksu: 46 (36).
+Zamjena vrijednosti na indeksima: 27 (77) i 46 (36)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 50
+Lijevi pokazivać je zastao na indeksu: 28 (68).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 50
+Desni pokazivać je zastao na indeksu: 45 (39).
+Zamjena vrijednosti na indeksima: 28 (68) i 45 (39)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 50
+Lijevi pokazivać je zastao na indeksu: 29 (58).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 50
+Desni pokazivać je zastao na indeksu: 43 (44).
+Zamjena vrijednosti na indeksima: 29 (58) i 43 (44)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 50
+Lijevi pokazivać je zastao na indeksu: 32 (74).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 50
+Desni pokazivać je zastao na indeksu: 42 (28).
+Zamjena vrijednosti na indeksima: 32 (74) i 42 (28)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 50
+Lijevi pokazivać je zastao na indeksu: 36 (57).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 50
+Desni pokazivać je zastao na indeksu: 41 (29).
+Zamjena vrijednosti na indeksima: 36 (57) i 41 (29)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 50
+Lijevi pokazivać je zastao na indeksu: 41 (57).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 50
+Desni pokazivać je zastao na indeksu: 40 (27).
+i >= j; izlaz iz petlje
+Zamjena pivota 24 (50) sa j: 40 (27)
+Nova granica za podparticije je: 40
+Sortiranje lijeve podparticije: [24, 39]
+Particioniranje raspona indeksa: [24, 39]
+Pivot je prvi element particije: 27
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 27
+Lijevi pokazivać je zastao na indeksu: 25 (34).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 27
+i >= j; izlaz iz petlje
+Zamjena pivota 24 (27) sa j: 24 (27)
+Nova granica za podparticije je: 24
+Sortiranje lijeve podparticije: [24, 23]
+Sortiranje desne podparticije: [25, 39]
+Particioniranje raspona indeksa: [25, 39]
+Pivot je prvi element particije: 34
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 34
+Lijevi pokazivać je zastao na indeksu: 26 (46).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 34
+Desni pokazivać je zastao na indeksu: 38 (33).
+Zamjena vrijednosti na indeksima: 26 (46) i 38 (33)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 34
+Lijevi pokazivać je zastao na indeksu: 27 (36).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 34
+Desni pokazivać je zastao na indeksu: 36 (29).
+Zamjena vrijednosti na indeksima: 27 (36) i 36 (29)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 34
+Lijevi pokazivać je zastao na indeksu: 28 (39).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 34
+Desni pokazivać je zastao na indeksu: 32 (28).
+Zamjena vrijednosti na indeksima: 28 (39) i 32 (28)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 34
+Lijevi pokazivać je zastao na indeksu: 29 (44).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 34
+Desni pokazivać je zastao na indeksu: 31 (31).
+Zamjena vrijednosti na indeksima: 29 (44) i 31 (31)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 34
+Lijevi pokazivać je zastao na indeksu: 31 (44).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 34
+Desni pokazivać je zastao na indeksu: 30 (30).
+i >= j; izlaz iz petlje
+Zamjena pivota 25 (34) sa j: 30 (30)
+Nova granica za podparticije je: 30
+Sortiranje lijeve podparticije: [25, 29]
+Particioniranje raspona indeksa: [25, 29]
+Pivot je prvi element particije: 30
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 30
+Lijevi pokazivać je zastao na indeksu: 26 (33).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 30
+Desni pokazivać je zastao na indeksu: 28 (28).
+Zamjena vrijednosti na indeksima: 26 (33) i 28 (28)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 30
+Lijevi pokazivać je zastao na indeksu: 28 (33).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 30
+Desni pokazivać je zastao na indeksu: 27 (29).
+i >= j; izlaz iz petlje
+Zamjena pivota 25 (30) sa j: 27 (29)
+Nova granica za podparticije je: 27
+Sortiranje lijeve podparticije: [25, 26]
+Particioniranje raspona indeksa: [25, 26]
+Pivot je prvi element particije: 29
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 29
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 29
+Desni pokazivać je zastao na indeksu: 26 (28).
+i >= j; izlaz iz petlje
+Zamjena pivota 25 (29) sa j: 26 (28)
+Nova granica za podparticije je: 26
+Sortiranje lijeve podparticije: [25, 25]
+Sortiranje desne podparticije: [27, 26]
+Sortiranje desne podparticije: [28, 29]
+Particioniranje raspona indeksa: [28, 29]
+Pivot je prvi element particije: 33
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 33
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 33
+Desni pokazivać je zastao na indeksu: 29 (31).
+i >= j; izlaz iz petlje
+Zamjena pivota 28 (33) sa j: 29 (31)
+Nova granica za podparticije je: 29
+Sortiranje lijeve podparticije: [28, 28]
+Sortiranje desne podparticije: [30, 29]
+Sortiranje desne podparticije: [31, 39]
+Particioniranje raspona indeksa: [31, 39]
+Pivot je prvi element particije: 44
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 44
+Lijevi pokazivać je zastao na indeksu: 34 (48).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 44
+Desni pokazivać je zastao na indeksu: 39 (37).
+Zamjena vrijednosti na indeksima: 34 (48) i 39 (37)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 44
+Lijevi pokazivać je zastao na indeksu: 37 (49).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 44
+Desni pokazivać je zastao na indeksu: 36 (36).
+i >= j; izlaz iz petlje
+Zamjena pivota 31 (44) sa j: 36 (36)
+Nova granica za podparticije je: 36
+Sortiranje lijeve podparticije: [31, 35]
+Particioniranje raspona indeksa: [31, 35]
+Pivot je prvi element particije: 36
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 36
+Lijevi pokazivać je zastao na indeksu: 32 (39).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 36
+i >= j; izlaz iz petlje
+Zamjena pivota 31 (36) sa j: 31 (36)
+Nova granica za podparticije je: 31
+Sortiranje lijeve podparticije: [31, 30]
+Sortiranje desne podparticije: [32, 35]
+Particioniranje raspona indeksa: [32, 35]
+Pivot je prvi element particije: 39
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 39
+Lijevi pokazivać je zastao na indeksu: 33 (43).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 39
+Desni pokazivać je zastao na indeksu: 34 (37).
+Zamjena vrijednosti na indeksima: 33 (43) i 34 (37)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 39
+Lijevi pokazivać je zastao na indeksu: 34 (43).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 39
+Desni pokazivać je zastao na indeksu: 33 (37).
+i >= j; izlaz iz petlje
+Zamjena pivota 32 (39) sa j: 33 (37)
+Nova granica za podparticije je: 33
+Sortiranje lijeve podparticije: [32, 32]
+Sortiranje desne podparticije: [34, 35]
+Particioniranje raspona indeksa: [34, 35]
+Pivot je prvi element particije: 43
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 43
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 43
+Desni pokazivać je zastao na indeksu: 35 (40).
+i >= j; izlaz iz petlje
+Zamjena pivota 34 (43) sa j: 35 (40)
+Nova granica za podparticije je: 35
+Sortiranje lijeve podparticije: [34, 34]
+Sortiranje desne podparticije: [36, 35]
+Sortiranje desne podparticije: [37, 39]
+Particioniranje raspona indeksa: [37, 39]
+Pivot je prvi element particije: 49
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 49
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 49
+Desni pokazivać je zastao na indeksu: 39 (48).
+i >= j; izlaz iz petlje
+Zamjena pivota 37 (49) sa j: 39 (48)
+Nova granica za podparticije je: 39
+Sortiranje lijeve podparticije: [37, 38]
+Particioniranje raspona indeksa: [37, 38]
+Pivot je prvi element particije: 48
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 48
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 48
+Desni pokazivać je zastao na indeksu: 38 (46).
+i >= j; izlaz iz petlje
+Zamjena pivota 37 (48) sa j: 38 (46)
+Nova granica za podparticije je: 38
+Sortiranje lijeve podparticije: [37, 37]
+Sortiranje desne podparticije: [39, 38]
+Sortiranje desne podparticije: [40, 39]
+Sortiranje desne podparticije: [41, 47]
+Particioniranje raspona indeksa: [41, 47]
+Pivot je prvi element particije: 57
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 57
+Lijevi pokazivać je zastao na indeksu: 42 (74).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 57
+Desni pokazivać je zastao na indeksu: 47 (56).
+Zamjena vrijednosti na indeksima: 42 (74) i 47 (56)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 57
+Lijevi pokazivać je zastao na indeksu: 43 (58).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 57
+Desni pokazivać je zastao na indeksu: 42 (56).
+i >= j; izlaz iz petlje
+Zamjena pivota 41 (57) sa j: 42 (56)
+Nova granica za podparticije je: 42
+Sortiranje lijeve podparticije: [41, 41]
+Sortiranje desne podparticije: [43, 47]
+Particioniranje raspona indeksa: [43, 47]
+Pivot je prvi element particije: 58
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 58
+Lijevi pokazivać je zastao na indeksu: 44 (60).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 58
+i >= j; izlaz iz petlje
+Zamjena pivota 43 (58) sa j: 43 (58)
+Nova granica za podparticije je: 43
+Sortiranje lijeve podparticije: [43, 42]
+Sortiranje desne podparticije: [44, 47]
+Particioniranje raspona indeksa: [44, 47]
+Pivot je prvi element particije: 60
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 60
+Lijevi pokazivać je zastao na indeksu: 45 (68).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 60
+i >= j; izlaz iz petlje
+Zamjena pivota 44 (60) sa j: 44 (60)
+Nova granica za podparticije je: 44
+Sortiranje lijeve podparticije: [44, 43]
+Sortiranje desne podparticije: [45, 47]
+Particioniranje raspona indeksa: [45, 47]
+Pivot je prvi element particije: 68
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 68
+Lijevi pokazivać je zastao na indeksu: 46 (77).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 68
+i >= j; izlaz iz petlje
+Zamjena pivota 45 (68) sa j: 45 (68)
+Nova granica za podparticije je: 45
+Sortiranje lijeve podparticije: [45, 44]
+Sortiranje desne podparticije: [46, 47]
+Particioniranje raspona indeksa: [46, 47]
+Pivot je prvi element particije: 77
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 77
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 77
+Desni pokazivać je zastao na indeksu: 47 (74).
+i >= j; izlaz iz petlje
+Zamjena pivota 46 (77) sa j: 47 (74)
+Nova granica za podparticije je: 47
+Sortiranje lijeve podparticije: [46, 46]
+Sortiranje desne podparticije: [48, 47]
+Sortiranje desne podparticije: [49, 55]
+Particioniranje raspona indeksa: [49, 55]
+Pivot je prvi element particije: 84
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 84
+Lijevi pokazivać je zastao na indeksu: 50 (95).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 84
+Desni pokazivać je zastao na indeksu: 53 (83).
+Zamjena vrijednosti na indeksima: 50 (95) i 53 (83)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 84
+Lijevi pokazivać je zastao na indeksu: 52 (85).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 84
+Desni pokazivać je zastao na indeksu: 51 (81).
+i >= j; izlaz iz petlje
+Zamjena pivota 49 (84) sa j: 51 (81)
+Nova granica za podparticije je: 51
+Sortiranje lijeve podparticije: [49, 50]
+Particioniranje raspona indeksa: [49, 50]
+Pivot je prvi element particije: 81
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 81
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 81
+i >= j; izlaz iz petlje
+Zamjena pivota 49 (81) sa j: 49 (81)
+Nova granica za podparticije je: 49
+Sortiranje lijeve podparticije: [49, 48]
+Sortiranje desne podparticije: [50, 50]
+Sortiranje desne podparticije: [52, 55]
+Particioniranje raspona indeksa: [52, 55]
+Pivot je prvi element particije: 85
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 85
+Lijevi pokazivać je zastao na indeksu: 53 (95).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 85
+i >= j; izlaz iz petlje
+Zamjena pivota 52 (85) sa j: 52 (85)
+Nova granica za podparticije je: 52
+Sortiranje lijeve podparticije: [52, 51]
+Sortiranje desne podparticije: [53, 55]
+Particioniranje raspona indeksa: [53, 55]
+Pivot je prvi element particije: 95
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 95
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 95
+Desni pokazivać je zastao na indeksu: 55 (86).
+i >= j; izlaz iz petlje
+Zamjena pivota 53 (95) sa j: 55 (86)
+Nova granica za podparticije je: 55
+Sortiranje lijeve podparticije: [53, 54]
+Particioniranje raspona indeksa: [53, 54]
+Pivot je prvi element particije: 86
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 86
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 86
+i >= j; izlaz iz petlje
+Zamjena pivota 53 (86) sa j: 53 (86)
+Nova granica za podparticije je: 53
+Sortiranje lijeve podparticije: [53, 52]
+Sortiranje desne podparticije: [54, 54]
+Sortiranje desne podparticije: [56, 55]
+Sortiranje desne podparticije: [57, 114]
+Particioniranje raspona indeksa: [57, 114]
+Pivot je prvi element particije: 447
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 447
+Lijevi pokazivać je zastao na indeksu: 59 (985).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 447
+Desni pokazivać je zastao na indeksu: 114 (146).
+Zamjena vrijednosti na indeksima: 59 (985) i 114 (146)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 447
+Lijevi pokazivać je zastao na indeksu: 61 (999).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 447
+Desni pokazivać je zastao na indeksu: 112 (190).
+Zamjena vrijednosti na indeksima: 61 (999) i 112 (190)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 447
+Lijevi pokazivać je zastao na indeksu: 63 (454).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 447
+Desni pokazivać je zastao na indeksu: 110 (430).
+Zamjena vrijednosti na indeksima: 63 (454) i 110 (430)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 447
+Lijevi pokazivać je zastao na indeksu: 67 (1036).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 447
+Desni pokazivać je zastao na indeksu: 109 (108).
+Zamjena vrijednosti na indeksima: 67 (1036) i 109 (108)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 447
+Lijevi pokazivać je zastao na indeksu: 69 (945).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 447
+Desni pokazivać je zastao na indeksu: 107 (130).
+Zamjena vrijednosti na indeksima: 69 (945) i 107 (130)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 447
+Lijevi pokazivać je zastao na indeksu: 70 (474).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 447
+Desni pokazivać je zastao na indeksu: 103 (150).
+Zamjena vrijednosti na indeksima: 70 (474) i 103 (150)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 447
+Lijevi pokazivać je zastao na indeksu: 74 (1070).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 447
+Desni pokazivać je zastao na indeksu: 99 (389).
+Zamjena vrijednosti na indeksima: 74 (1070) i 99 (389)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 447
+Lijevi pokazivać je zastao na indeksu: 75 (482).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 447
+Desni pokazivać je zastao na indeksu: 98 (291).
+Zamjena vrijednosti na indeksima: 75 (482) i 98 (291)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 447
+Lijevi pokazivać je zastao na indeksu: 77 (939).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 447
+Desni pokazivać je zastao na indeksu: 97 (198).
+Zamjena vrijednosti na indeksima: 77 (939) i 97 (198)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 447
+Lijevi pokazivać je zastao na indeksu: 79 (1105).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 447
+Desni pokazivać je zastao na indeksu: 94 (374).
+Zamjena vrijednosti na indeksima: 79 (1105) i 94 (374)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 447
+Lijevi pokazivać je zastao na indeksu: 80 (526).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 447
+Desni pokazivać je zastao na indeksu: 91 (135).
+Zamjena vrijednosti na indeksima: 80 (526) i 91 (135)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 447
+Lijevi pokazivać je zastao na indeksu: 83 (862).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 447
+Desni pokazivać je zastao na indeksu: 89 (362).
+Zamjena vrijednosti na indeksima: 83 (862) i 89 (362)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 447
+Lijevi pokazivać je zastao na indeksu: 85 (1165).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 447
+Desni pokazivać je zastao na indeksu: 88 (305).
+Zamjena vrijednosti na indeksima: 85 (1165) i 88 (305)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 447
+Lijevi pokazivać je zastao na indeksu: 86 (558).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 447
+Desni pokazivać je zastao na indeksu: 87 (211).
+Zamjena vrijednosti na indeksima: 86 (558) i 87 (211)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 447
+Lijevi pokazivać je zastao na indeksu: 87 (558).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 447
+Desni pokazivać je zastao na indeksu: 86 (211).
+i >= j; izlaz iz petlje
+Zamjena pivota 57 (447) sa j: 86 (211)
+Nova granica za podparticije je: 86
+Sortiranje lijeve podparticije: [57, 85]
+Particioniranje raspona indeksa: [57, 85]
+Pivot je prvi element particije: 211
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 211
+Lijevi pokazivać je zastao na indeksu: 60 (290).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 211
+Desni pokazivać je zastao na indeksu: 80 (135).
+Zamjena vrijednosti na indeksima: 60 (290) i 80 (135)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 211
+Lijevi pokazivać je zastao na indeksu: 63 (430).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 211
+Desni pokazivać je zastao na indeksu: 77 (198).
+Zamjena vrijednosti na indeksima: 63 (430) i 77 (198)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 211
+Lijevi pokazivać je zastao na indeksu: 64 (285).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 211
+Desni pokazivać je zastao na indeksu: 76 (105).
+Zamjena vrijednosti na indeksima: 64 (285) i 76 (105)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 211
+Lijevi pokazivać je zastao na indeksu: 65 (409).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 211
+Desni pokazivać je zastao na indeksu: 70 (150).
+Zamjena vrijednosti na indeksima: 65 (409) i 70 (150)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 211
+Lijevi pokazivać je zastao na indeksu: 66 (303).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 211
+Desni pokazivać je zastao na indeksu: 69 (130).
+Zamjena vrijednosti na indeksima: 66 (303) i 69 (130)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 211
+Lijevi pokazivać je zastao na indeksu: 69 (303).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 211
+Desni pokazivać je zastao na indeksu: 68 (120).
+i >= j; izlaz iz petlje
+Zamjena pivota 57 (211) sa j: 68 (120)
+Nova granica za podparticije je: 68
+Sortiranje lijeve podparticije: [57, 67]
+Particioniranje raspona indeksa: [57, 67]
+Pivot je prvi element particije: 120
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 120
+Lijevi pokazivać je zastao na indeksu: 59 (146).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 120
+Desni pokazivać je zastao na indeksu: 67 (108).
+Zamjena vrijednosti na indeksima: 59 (146) i 67 (108)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 120
+Lijevi pokazivać je zastao na indeksu: 60 (135).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 120
+Desni pokazivać je zastao na indeksu: 64 (105).
+Zamjena vrijednosti na indeksima: 60 (135) i 64 (105)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 120
+Lijevi pokazivać je zastao na indeksu: 61 (190).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 120
+Desni pokazivać je zastao na indeksu: 62 (117).
+Zamjena vrijednosti na indeksima: 61 (190) i 62 (117)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 120
+Lijevi pokazivać je zastao na indeksu: 62 (190).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 120
+Desni pokazivać je zastao na indeksu: 61 (117).
+i >= j; izlaz iz petlje
+Zamjena pivota 57 (120) sa j: 61 (117)
+Nova granica za podparticije je: 61
+Sortiranje lijeve podparticije: [57, 60]
+Particioniranje raspona indeksa: [57, 60]
+Pivot je prvi element particije: 117
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 117
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 117
+Desni pokazivać je zastao na indeksu: 60 (105).
+i >= j; izlaz iz petlje
+Zamjena pivota 57 (117) sa j: 60 (105)
+Nova granica za podparticije je: 60
+Sortiranje lijeve podparticije: [57, 59]
+Particioniranje raspona indeksa: [57, 59]
+Pivot je prvi element particije: 105
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 105
+Lijevi pokazivać je zastao na indeksu: 58 (109).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 105
+i >= j; izlaz iz petlje
+Zamjena pivota 57 (105) sa j: 57 (105)
+Nova granica za podparticije je: 57
+Sortiranje lijeve podparticije: [57, 56]
+Sortiranje desne podparticije: [58, 59]
+Particioniranje raspona indeksa: [58, 59]
+Pivot je prvi element particije: 109
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 109
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 109
+Desni pokazivać je zastao na indeksu: 59 (108).
+i >= j; izlaz iz petlje
+Zamjena pivota 58 (109) sa j: 59 (108)
+Nova granica za podparticije je: 59
+Sortiranje lijeve podparticije: [58, 58]
+Sortiranje desne podparticije: [60, 59]
+Sortiranje desne podparticije: [61, 60]
+Sortiranje desne podparticije: [62, 67]
+Particioniranje raspona indeksa: [62, 67]
+Pivot je prvi element particije: 190
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 190
+Lijevi pokazivać je zastao na indeksu: 63 (198).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 190
+Desni pokazivać je zastao na indeksu: 67 (146).
+Zamjena vrijednosti na indeksima: 63 (198) i 67 (146)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 190
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 190
+Desni pokazivać je zastao na indeksu: 66 (130).
+i >= j; izlaz iz petlje
+Zamjena pivota 62 (190) sa j: 66 (130)
+Nova granica za podparticije je: 66
+Sortiranje lijeve podparticije: [62, 65]
+Particioniranje raspona indeksa: [62, 65]
+Pivot je prvi element particije: 130
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 130
+Lijevi pokazivać je zastao na indeksu: 63 (146).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 130
+i >= j; izlaz iz petlje
+Zamjena pivota 62 (130) sa j: 62 (130)
+Nova granica za podparticije je: 62
+Sortiranje lijeve podparticije: [62, 61]
+Sortiranje desne podparticije: [63, 65]
+Particioniranje raspona indeksa: [63, 65]
+Pivot je prvi element particije: 146
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 146
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 146
+Desni pokazivać je zastao na indeksu: 64 (135).
+i >= j; izlaz iz petlje
+Zamjena pivota 63 (146) sa j: 64 (135)
+Nova granica za podparticije je: 64
+Sortiranje lijeve podparticije: [63, 63]
+Sortiranje desne podparticije: [65, 65]
+Sortiranje desne podparticije: [67, 67]
+Sortiranje desne podparticije: [69, 85]
+Particioniranje raspona indeksa: [69, 85]
+Pivot je prvi element particije: 303
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 303
+Lijevi pokazivać je zastao na indeksu: 70 (409).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 303
+Desni pokazivać je zastao na indeksu: 81 (251).
+Zamjena vrijednosti na indeksima: 70 (409) i 81 (251)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 303
+Lijevi pokazivać je zastao na indeksu: 72 (404).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 303
+Desni pokazivać je zastao na indeksu: 80 (290).
+Zamjena vrijednosti na indeksima: 72 (404) i 80 (290)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 303
+Lijevi pokazivać je zastao na indeksu: 73 (317).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 303
+Desni pokazivać je zastao na indeksu: 76 (285).
+Zamjena vrijednosti na indeksima: 73 (317) i 76 (285)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 303
+Lijevi pokazivać je zastao na indeksu: 74 (389).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 303
+Desni pokazivać je zastao na indeksu: 75 (291).
+Zamjena vrijednosti na indeksima: 74 (389) i 75 (291)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 303
+Lijevi pokazivać je zastao na indeksu: 75 (389).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 303
+Desni pokazivać je zastao na indeksu: 74 (291).
+i >= j; izlaz iz petlje
+Zamjena pivota 69 (303) sa j: 74 (291)
+Nova granica za podparticije je: 74
+Sortiranje lijeve podparticije: [69, 73]
+Particioniranje raspona indeksa: [69, 73]
+Pivot je prvi element particije: 291
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 291
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 291
+Desni pokazivać je zastao na indeksu: 73 (285).
+i >= j; izlaz iz petlje
+Zamjena pivota 69 (291) sa j: 73 (285)
+Nova granica za podparticije je: 73
+Sortiranje lijeve podparticije: [69, 72]
+Particioniranje raspona indeksa: [69, 72]
+Pivot je prvi element particije: 285
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 285
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 285
+Desni pokazivać je zastao na indeksu: 71 (269).
+i >= j; izlaz iz petlje
+Zamjena pivota 69 (285) sa j: 71 (269)
+Nova granica za podparticije je: 71
+Sortiranje lijeve podparticije: [69, 70]
+Particioniranje raspona indeksa: [69, 70]
+Pivot je prvi element particije: 269
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 269
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 269
+Desni pokazivać je zastao na indeksu: 70 (251).
+i >= j; izlaz iz petlje
+Zamjena pivota 69 (269) sa j: 70 (251)
+Nova granica za podparticije je: 70
+Sortiranje lijeve podparticije: [69, 69]
+Sortiranje desne podparticije: [71, 70]
+Sortiranje desne podparticije: [72, 72]
+Sortiranje desne podparticije: [74, 73]
+Sortiranje desne podparticije: [75, 85]
+Particioniranje raspona indeksa: [75, 85]
+Pivot je prvi element particije: 389
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 389
+Lijevi pokazivać je zastao na indeksu: 77 (430).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 389
+Desni pokazivać je zastao na indeksu: 85 (305).
+Zamjena vrijednosti na indeksima: 77 (430) i 85 (305)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 389
+Lijevi pokazivać je zastao na indeksu: 80 (404).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 389
+Desni pokazivać je zastao na indeksu: 84 (353).
+Zamjena vrijednosti na indeksima: 80 (404) i 84 (353)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 389
+Lijevi pokazivać je zastao na indeksu: 81 (409).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 389
+Desni pokazivać je zastao na indeksu: 83 (362).
+Zamjena vrijednosti na indeksima: 81 (409) i 83 (362)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 389
+Lijevi pokazivać je zastao na indeksu: 83 (409).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 389
+Desni pokazivać je zastao na indeksu: 82 (355).
+i >= j; izlaz iz petlje
+Zamjena pivota 75 (389) sa j: 82 (355)
+Nova granica za podparticije je: 82
+Sortiranje lijeve podparticije: [75, 81]
+Particioniranje raspona indeksa: [75, 81]
+Pivot je prvi element particije: 355
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 355
+Lijevi pokazivać je zastao na indeksu: 79 (374).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 355
+Desni pokazivać je zastao na indeksu: 80 (353).
+Zamjena vrijednosti na indeksima: 79 (374) i 80 (353)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 355
+Lijevi pokazivać je zastao na indeksu: 80 (374).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 355
+Desni pokazivać je zastao na indeksu: 79 (353).
+i >= j; izlaz iz petlje
+Zamjena pivota 75 (355) sa j: 79 (353)
+Nova granica za podparticije je: 79
+Sortiranje lijeve podparticije: [75, 78]
+Particioniranje raspona indeksa: [75, 78]
+Pivot je prvi element particije: 353
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 353
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 353
+Desni pokazivać je zastao na indeksu: 78 (335).
+i >= j; izlaz iz petlje
+Zamjena pivota 75 (353) sa j: 78 (335)
+Nova granica za podparticije je: 78
+Sortiranje lijeve podparticije: [75, 77]
+Particioniranje raspona indeksa: [75, 77]
+Pivot je prvi element particije: 335
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 335
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 335
+Desni pokazivać je zastao na indeksu: 77 (305).
+i >= j; izlaz iz petlje
+Zamjena pivota 75 (335) sa j: 77 (305)
+Nova granica za podparticije je: 77
+Sortiranje lijeve podparticije: [75, 76]
+Particioniranje raspona indeksa: [75, 76]
+Pivot je prvi element particije: 305
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 305
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 305
+i >= j; izlaz iz petlje
+Zamjena pivota 75 (305) sa j: 75 (305)
+Nova granica za podparticije je: 75
+Sortiranje lijeve podparticije: [75, 74]
+Sortiranje desne podparticije: [76, 76]
+Sortiranje desne podparticije: [78, 77]
+Sortiranje desne podparticije: [79, 78]
+Sortiranje desne podparticije: [80, 81]
+Particioniranje raspona indeksa: [80, 81]
+Pivot je prvi element particije: 374
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 374
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 374
+Desni pokazivać je zastao na indeksu: 81 (362).
+i >= j; izlaz iz petlje
+Zamjena pivota 80 (374) sa j: 81 (362)
+Nova granica za podparticije je: 81
+Sortiranje lijeve podparticije: [80, 80]
+Sortiranje desne podparticije: [82, 81]
+Sortiranje desne podparticije: [83, 85]
+Particioniranje raspona indeksa: [83, 85]
+Pivot je prvi element particije: 409
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 409
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 409
+Desni pokazivać je zastao na indeksu: 84 (404).
+i >= j; izlaz iz petlje
+Zamjena pivota 83 (409) sa j: 84 (404)
+Nova granica za podparticije je: 84
+Sortiranje lijeve podparticije: [83, 83]
+Sortiranje desne podparticije: [85, 85]
+Sortiranje desne podparticije: [87, 114]
+Particioniranje raspona indeksa: [87, 114]
+Pivot je prvi element particije: 558
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 558
+Lijevi pokazivać je zastao na indeksu: 88 (1165).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 558
+Desni pokazivać je zastao na indeksu: 110 (454).
+Zamjena vrijednosti na indeksima: 88 (1165) i 110 (454)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 558
+Lijevi pokazivać je zastao na indeksu: 89 (862).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 558
+Desni pokazivać je zastao na indeksu: 104 (516).
+Zamjena vrijednosti na indeksima: 89 (862) i 104 (516)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 558
+Lijevi pokazivać je zastao na indeksu: 90 (1205).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 558
+Desni pokazivać je zastao na indeksu: 103 (474).
+Zamjena vrijednosti na indeksima: 90 (1205) i 103 (474)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 558
+Lijevi pokazivać je zastao na indeksu: 92 (585).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 558
+Desni pokazivać je zastao na indeksu: 98 (482).
+Zamjena vrijednosti na indeksima: 92 (585) i 98 (482)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 558
+Lijevi pokazivać je zastao na indeksu: 93 (846).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 558
+Desni pokazivać je zastao na indeksu: 92 (482).
+i >= j; izlaz iz petlje
+Zamjena pivota 87 (558) sa j: 92 (482)
+Nova granica za podparticije je: 92
+Sortiranje lijeve podparticije: [87, 91]
+Particioniranje raspona indeksa: [87, 91]
+Pivot je prvi element particije: 482
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 482
+Lijevi pokazivać je zastao na indeksu: 89 (516).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 482
+Desni pokazivać je zastao na indeksu: 90 (474).
+Zamjena vrijednosti na indeksima: 89 (516) i 90 (474)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 482
+Lijevi pokazivać je zastao na indeksu: 90 (516).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 482
+Desni pokazivać je zastao na indeksu: 89 (474).
+i >= j; izlaz iz petlje
+Zamjena pivota 87 (482) sa j: 89 (474)
+Nova granica za podparticije je: 89
+Sortiranje lijeve podparticije: [87, 88]
+Particioniranje raspona indeksa: [87, 88]
+Pivot je prvi element particije: 474
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 474
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 474
+Desni pokazivać je zastao na indeksu: 88 (454).
+i >= j; izlaz iz petlje
+Zamjena pivota 87 (474) sa j: 88 (454)
+Nova granica za podparticije je: 88
+Sortiranje lijeve podparticije: [87, 87]
+Sortiranje desne podparticije: [89, 88]
+Sortiranje desne podparticije: [90, 91]
+Particioniranje raspona indeksa: [90, 91]
+Pivot je prvi element particije: 516
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 516
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 516
+i >= j; izlaz iz petlje
+Zamjena pivota 90 (516) sa j: 90 (516)
+Nova granica za podparticije je: 90
+Sortiranje lijeve podparticije: [90, 89]
+Sortiranje desne podparticije: [91, 91]
+Sortiranje desne podparticije: [93, 114]
+Particioniranje raspona indeksa: [93, 114]
+Pivot je prvi element particije: 846
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 846
+Lijevi pokazivać je zastao na indeksu: 94 (1105).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 846
+Desni pokazivać je zastao na indeksu: 113 (819).
+Zamjena vrijednosti na indeksima: 94 (1105) i 113 (819)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 846
+Lijevi pokazivać je zastao na indeksu: 95 (1226).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 846
+Desni pokazivać je zastao na indeksu: 108 (706).
+Zamjena vrijednosti na indeksima: 95 (1226) i 108 (706)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 846
+Lijevi pokazivać je zastao na indeksu: 97 (939).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 846
+Desni pokazivać je zastao na indeksu: 106 (640).
+Zamjena vrijednosti na indeksima: 97 (939) i 106 (640)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 846
+Lijevi pokazivać je zastao na indeksu: 99 (1070).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 846
+Desni pokazivać je zastao na indeksu: 102 (816).
+Zamjena vrijednosti na indeksima: 99 (1070) i 102 (816)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 846
+Lijevi pokazivać je zastao na indeksu: 100 (1249).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 846
+Desni pokazivać je zastao na indeksu: 101 (617).
+Zamjena vrijednosti na indeksima: 100 (1249) i 101 (617)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 846
+Lijevi pokazivać je zastao na indeksu: 101 (1249).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 846
+Desni pokazivać je zastao na indeksu: 100 (617).
+i >= j; izlaz iz petlje
+Zamjena pivota 93 (846) sa j: 100 (617)
+Nova granica za podparticije je: 100
+Sortiranje lijeve podparticije: [93, 99]
+Particioniranje raspona indeksa: [93, 99]
+Pivot je prvi element particije: 617
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 617
+Lijevi pokazivać je zastao na indeksu: 94 (819).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 617
+Desni pokazivać je zastao na indeksu: 98 (585).
+Zamjena vrijednosti na indeksima: 94 (819) i 98 (585)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 617
+Lijevi pokazivać je zastao na indeksu: 95 (706).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 617
+Desni pokazivać je zastao na indeksu: 96 (600).
+Zamjena vrijednosti na indeksima: 95 (706) i 96 (600)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 617
+Lijevi pokazivać je zastao na indeksu: 96 (706).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 617
+Desni pokazivać je zastao na indeksu: 95 (600).
+i >= j; izlaz iz petlje
+Zamjena pivota 93 (617) sa j: 95 (600)
+Nova granica za podparticije je: 95
+Sortiranje lijeve podparticije: [93, 94]
+Particioniranje raspona indeksa: [93, 94]
+Pivot je prvi element particije: 600
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 600
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 600
+Desni pokazivać je zastao na indeksu: 94 (585).
+i >= j; izlaz iz petlje
+Zamjena pivota 93 (600) sa j: 94 (585)
+Nova granica za podparticije je: 94
+Sortiranje lijeve podparticije: [93, 93]
+Sortiranje desne podparticije: [95, 94]
+Sortiranje desne podparticije: [96, 99]
+Particioniranje raspona indeksa: [96, 99]
+Pivot je prvi element particije: 706
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 706
+Lijevi pokazivać je zastao na indeksu: 98 (819).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 706
+Desni pokazivać je zastao na indeksu: 97 (640).
+i >= j; izlaz iz petlje
+Zamjena pivota 96 (706) sa j: 97 (640)
+Nova granica za podparticije je: 97
+Sortiranje lijeve podparticije: [96, 96]
+Sortiranje desne podparticije: [98, 99]
+Particioniranje raspona indeksa: [98, 99]
+Pivot je prvi element particije: 819
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 819
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 819
+Desni pokazivać je zastao na indeksu: 99 (816).
+i >= j; izlaz iz petlje
+Zamjena pivota 98 (819) sa j: 99 (816)
+Nova granica za podparticije je: 99
+Sortiranje lijeve podparticije: [98, 98]
+Sortiranje desne podparticije: [100, 99]
+Sortiranje desne podparticije: [101, 114]
+Particioniranje raspona indeksa: [101, 114]
+Pivot je prvi element particije: 1249
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 1249
+Lijevi pokazivać je zastao na indeksu: 105 (1279).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 1249
+Desni pokazivać je zastao na indeksu: 114 (985).
+Zamjena vrijednosti na indeksima: 105 (1279) i 114 (985)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 1249
+Lijevi pokazivać je zastao na indeksu: 111 (1375).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 1249
+Desni pokazivać je zastao na indeksu: 113 (1105).
+Zamjena vrijednosti na indeksima: 111 (1375) i 113 (1105)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 1249
+Lijevi pokazivać je zastao na indeksu: 113 (1375).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 1249
+Desni pokazivać je zastao na indeksu: 112 (999).
+i >= j; izlaz iz petlje
+Zamjena pivota 101 (1249) sa j: 112 (999)
+Nova granica za podparticije je: 112
+Sortiranje lijeve podparticije: [101, 111]
+Particioniranje raspona indeksa: [101, 111]
+Pivot je prvi element particije: 999
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 999
+Lijevi pokazivać je zastao na indeksu: 102 (1070).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 999
+Desni pokazivać je zastao na indeksu: 107 (945).
+Zamjena vrijednosti na indeksima: 102 (1070) i 107 (945)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 999
+Lijevi pokazivać je zastao na indeksu: 103 (1205).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 999
+Desni pokazivać je zastao na indeksu: 106 (939).
+Zamjena vrijednosti na indeksima: 103 (1205) i 106 (939)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 999
+Lijevi pokazivać je zastao na indeksu: 106 (1205).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 999
+Desni pokazivać je zastao na indeksu: 105 (985).
+i >= j; izlaz iz petlje
+Zamjena pivota 101 (999) sa j: 105 (985)
+Nova granica za podparticije je: 105
+Sortiranje lijeve podparticije: [101, 104]
+Particioniranje raspona indeksa: [101, 104]
+Pivot je prvi element particije: 985
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 985
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 985
+Desni pokazivać je zastao na indeksu: 104 (862).
+i >= j; izlaz iz petlje
+Zamjena pivota 101 (985) sa j: 104 (862)
+Nova granica za podparticije je: 104
+Sortiranje lijeve podparticije: [101, 103]
+Particioniranje raspona indeksa: [101, 103]
+Pivot je prvi element particije: 862
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 862
+Lijevi pokazivać je zastao na indeksu: 102 (945).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 862
+i >= j; izlaz iz petlje
+Zamjena pivota 101 (862) sa j: 101 (862)
+Nova granica za podparticije je: 101
+Sortiranje lijeve podparticije: [101, 100]
+Sortiranje desne podparticije: [102, 103]
+Particioniranje raspona indeksa: [102, 103]
+Pivot je prvi element particije: 945
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 945
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 945
+Desni pokazivać je zastao na indeksu: 103 (939).
+i >= j; izlaz iz petlje
+Zamjena pivota 102 (945) sa j: 103 (939)
+Nova granica za podparticije je: 103
+Sortiranje lijeve podparticije: [102, 102]
+Sortiranje desne podparticije: [104, 103]
+Sortiranje desne podparticije: [105, 104]
+Sortiranje desne podparticije: [106, 111]
+Particioniranje raspona indeksa: [106, 111]
+Pivot je prvi element particije: 1205
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 1205
+Lijevi pokazivać je zastao na indeksu: 108 (1226).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 1205
+Desni pokazivać je zastao na indeksu: 111 (1105).
+Zamjena vrijednosti na indeksima: 108 (1226) i 111 (1105)
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 1205
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 1205
+Desni pokazivać je zastao na indeksu: 110 (1165).
+i >= j; izlaz iz petlje
+Zamjena pivota 106 (1205) sa j: 110 (1165)
+Nova granica za podparticije je: 110
+Sortiranje lijeve podparticije: [106, 109]
+Particioniranje raspona indeksa: [106, 109]
+Pivot je prvi element particije: 1165
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 1165
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 1165
+Desni pokazivać je zastao na indeksu: 109 (1036).
+i >= j; izlaz iz petlje
+Zamjena pivota 106 (1165) sa j: 109 (1036)
+Nova granica za podparticije je: 109
+Sortiranje lijeve podparticije: [106, 108]
+Particioniranje raspona indeksa: [106, 108]
+Pivot je prvi element particije: 1036
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 1036
+Lijevi pokazivać je zastao na indeksu: 107 (1070).
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 1036
+i >= j; izlaz iz petlje
+Zamjena pivota 106 (1036) sa j: 106 (1036)
+Nova granica za podparticije je: 106
+Sortiranje lijeve podparticije: [106, 105]
+Sortiranje desne podparticije: [107, 108]
+Particioniranje raspona indeksa: [107, 108]
+Pivot je prvi element particije: 1070
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 1070
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 1070
+i >= j; izlaz iz petlje
+Zamjena pivota 107 (1070) sa j: 107 (1070)
+Nova granica za podparticije je: 107
+Sortiranje lijeve podparticije: [107, 106]
+Sortiranje desne podparticije: [108, 108]
+Sortiranje desne podparticije: [110, 109]
+Sortiranje desne podparticije: [111, 111]
+Sortiranje desne podparticije: [113, 114]
+Particioniranje raspona indeksa: [113, 114]
+Pivot je prvi element particije: 1375
+Pomicanje lijevog pokazivaća udesno do vrijednosti veće od: 1375
+Lijevi pokazivać je došao do kraja particije.
+Pomicanje desnog pokazivaća ulijevo do vrijednosti manje od: 1375
+Desni pokazivać je zastao na indeksu: 114 (1279).
+i >= j; izlaz iz petlje
+Zamjena pivota 113 (1375) sa j: 114 (1279)
+Nova granica za podparticije je: 114
+Sortiranje lijeve podparticije: [113, 113]
+Sortiranje desne podparticije: [115, 114]
+Sortirano 115 vrijednosti:
+0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 26, 27, 28, 29, 30, 31, 33, 34, 36, 37, 39, 40, 43, 44, 46, 48, 49, 50, 56, 57, 58, 60, 68, 74, 77, 80, 81, 83, 84, 85, 86, 90, 95, 100, 105, 108, 109, 117, 120, 130, 135, 146, 150, 190, 198, 211, 251, 269, 285, 290, 291, 303, 305, 317, 335, 353, 355, 362, 374, 389, 404, 409, 430, 447, 454, 474, 482, 516, 526, 558, 585, 600, 617, 640, 706, 816, 819, 846, 862, 939, 945, 985, 999, 1036, 1070, 1105, 1165, 1205, 1226, 1249, 1279, 1375
