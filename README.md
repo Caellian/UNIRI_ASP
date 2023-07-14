@@ -5,6 +5,6 @@
 - [Kod](./quick_sort.cpp)
   - [Izvor](https://github.com/Caellian/Reference/tree/master/algorithms/sorting/quicksort)
   - [Ispis programa](./output.txt)
-- [Seminar](./seminar.tex)
+- [Seminar](./seminar.pdf)
   - [TeX source](./seminar.tex)
     - [Pandoc generated DOCX](./seminar.docx)
